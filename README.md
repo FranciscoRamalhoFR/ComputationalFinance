@@ -1,2 +1,2 @@
-# Finance
-This repository contains scripts developed for Finance
+# Computational Finance
+This repository contains scripts developed for Computational Finance
